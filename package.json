@@ -36,7 +36,7 @@
     "src/**/*.ts"
   ],
   "peerDependencies": {
-    "chart.js": "^3.9.1"
+    "chart.js": "^4.0.1"
   },
   "dependencies": {
     "@types/d3-geo": "^3.0.2",
